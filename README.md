@@ -8,4 +8,6 @@ This website was built as part of The Odin Project as part of the "Foundations" 
   - Elements and Tags
   - Text
   - Lists
-  - Links and Images
+  - Links
+  - Images
+    - Width and Height attributes
