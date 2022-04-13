@@ -11,3 +11,5 @@ This website was built as part of The Odin Project as part of the "Foundations" 
   - Links
   - Images
     - Width and Height attributes
+
+- Basic CSS
